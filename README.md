@@ -16,7 +16,8 @@ pip3 install -r requirements.txt
 python3 bot.py
 ```
 
-
+#### Deploy on Heroku
+kunna
 #### Support Group
 - [SB BOTS SUPPORT](https://t.me/s_bots_support)
 
