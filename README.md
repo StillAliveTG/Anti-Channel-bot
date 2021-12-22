@@ -24,5 +24,5 @@ python3 bot.py
 - [SB BOTS](https://t.me/S_bots)
 
 ### Credits
-- [𝚂𝚃𝙸𝙻𝙻 𝙰𝙻𝙸𝚅𝙴 [#𝙾𝙵𝙵𝙻𝙸𝙽𝙴](me)](https://github.com/StillAliveTG)
+- [𝚂𝚃𝙸𝙻𝙻 𝙰𝙻𝙸𝚅𝙴 [#𝙾𝙵𝙵𝙻𝙸𝙽𝙴] (me)](https://github.com/StillAliveTG)
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
