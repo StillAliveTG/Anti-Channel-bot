@@ -17,7 +17,7 @@ python3 bot.py
 ```
 
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/StillAliveTG/Anti-Channel-bot)
+[![Deploy](https://telegra.ph/file/0cc30af9bac3d72188a83.jpg)](https://heroku.com/deploy?template=https://github.com/StillAliveTG/Anti-Channel-bot)
 
 #### Support Group
 - [SB BOTS SUPPORT](https://t.me/s_bots_support)
